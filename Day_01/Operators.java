@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Operators {
+public class Operators{
     public static void main(String rgs[]){
         int A = 10;
         int B = 5;
